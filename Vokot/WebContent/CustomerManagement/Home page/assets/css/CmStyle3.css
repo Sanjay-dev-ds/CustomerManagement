@@ -1,0 +1,113 @@
+body{
+
+    background-color:#D2FDFF;
+}
+
+
+    .head{
+margin-top: 40px;
+        margin-left: 500px;
+    }
+   
+    .container2{
+    
+        margin-bottom: 50px;
+        align-content: center;
+       height: 850px;
+        width: 800px;
+        background-color:white;
+        border-color: black;
+        border-radius: 5px;
+        border: 1px solid;
+      padding: 5px;
+      box-shadow: 5px 10px 8px 10px #888888;
+      
+    
+    }
+
+     
+    .container3{
+    
+        margin-bottom: 50px;
+        align-content: center;
+       height: 750px;
+        width: 800px;
+        background-color:white;
+        border-color: black;
+        border-radius: 5px;
+        border: 1px solid;
+      padding: 5px;
+      box-shadow: 5px 10px 8px 10px #888888;
+          
+    }
+    
+    
+    label{
+        margin-top: 20px;
+  width: 100px;
+margin-bottom: 20px;
+        margin-left: 20px;
+    }
+
+    a{
+
+        margin-left: 5px;
+    }
+    
+    textarea{
+        margin-top: 20px;
+        width: 500px;
+      margin-bottom: 20px;
+              margin-left: 20px;
+              height: 150px;
+
+
+    }
+ 
+.button1,.button2{
+
+    color: white;
+       background-color: black;
+       font-size: 14px;
+      padding: 10px 15px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+      text-align: center;
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
+    .button1:hover,.button2:hover{
+    
+        color:black;
+           background-color: white;
+        }
+    .button1{
+        margin-left: 100px;
+        
+    }
+    .button2{
+    
+        margin-left: 300px;
+    }
+
+    input{
+    border-color: black;
+    border-radius: 5px;
+    
+    }
+    .form{
+
+        margin-top: 50px;
+    }
+
+    .address{
+
+        width: 80px;
+    }
+
+    #buttonHide{
+margin-top: 100px;
+display: none;
+
+    }
